@@ -1,4 +1,4 @@
-package com.company.threads;
+package com.company.threads.ProducerConsumer;
 
 import java.util.concurrent.BlockingQueue;
 

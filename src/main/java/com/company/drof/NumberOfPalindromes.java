@@ -1,4 +1,4 @@
-package com.company.Ford;
+package com.company.drof;
 
 public class NumberOfPalindromes {
 
